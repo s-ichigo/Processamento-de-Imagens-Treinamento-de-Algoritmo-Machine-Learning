@@ -1,0 +1,5 @@
+0 Gloss
+1 Chaveiro
+2 Mouse
+3 Livro
+4 Grampeador
